@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "886294905952",
+    "firebase_url": "https://ss-shipping-driver-app-default-rtdb.firebaseio.com",
+    "project_id": "ss-shipping-driver-app",
+    "storage_bucket": "ss-shipping-driver-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886294905952:android:cdd0aa6fe65a1746e76f05",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886294905952-njed9c5p5e78al4435v7r7hhi1b8vqp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjW6j5HbGuD4tyLQ2z08L6cH3ieSrKFTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886294905952-njed9c5p5e78al4435v7r7hhi1b8vqp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
